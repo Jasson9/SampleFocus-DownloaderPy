@@ -1,5 +1,5 @@
 # Installation
-```Run pip install -r requirements.txt```
+```pip install -r requirements.txt```
 
 
 # Run
